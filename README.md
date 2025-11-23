@@ -9,15 +9,9 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
 
 
 ## Index
-[Usage](#Usage)
-[Load a playlist](#Load-Playlist)
-[Rename Playlist](#Rename-Playlist)
-[Delete Playlist](#Delete-Playlist)
-[Add Playlist](#Add-Playlist)
-[Duplicate Playlist](#Duplicate-Playlist)
-[Save Playlist](#Save-Playlist)
-[Reorder Playlist](#Move-up/Down)
-[Customization](#Customization:)
+- [Usage](#Usage)
+
+- [Customization](#Customization:)
 
 
 
