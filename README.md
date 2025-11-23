@@ -102,7 +102,7 @@ Click OK to load the panel.
 <img width="266" height="211" alt="image" src="https://github.com/user-attachments/assets/658b85a1-2219-48a8-8a2d-c44960e733dc" />
 
 #### Changing Playlist Tab Cover Size
-- In panel properties, adjust cover size
+- In panel properties (right click in blank space), adjust cover size
 
 <img width="419" height="21" alt="image" src="https://github.com/user-attachments/assets/195044e4-be5f-4b90-935f-bd65946fd03c" />
 
