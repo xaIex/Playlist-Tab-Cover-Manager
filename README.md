@@ -7,6 +7,10 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
 
 <img width="1802" height="1160" alt="image" src="https://github.com/user-attachments/assets/91a6ec7c-d550-4091-a352-fee92acc7bd4" />
 
+## Index
+[Usage](#Usage)
+
+[Customization](#Customization)
 
 
 ## Features
@@ -90,7 +94,7 @@ Click OK to load the panel.
 
 
 
-## Customization:
+## Customization
 <img width="266" height="211" alt="image" src="https://github.com/user-attachments/assets/658b85a1-2219-48a8-8a2d-c44960e733dc" />
 
 #### Changing Playlist Tab Cover Size
