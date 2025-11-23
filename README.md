@@ -9,7 +9,8 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
 
 
 ## Index
-[[Usage]]
+[[#Usage]]
+
 
 
 ## Features
