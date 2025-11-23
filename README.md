@@ -14,11 +14,11 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
 ## Features
 ### Playback & Navigation
 - **Quick Playback** - Double-click any playlist to instantly play a random track
-- **Scrollable View **- Smooth scrolling through your entire playlist collection
+- **Scrollable View** - Smooth scrolling through your entire playlist collection
 - **Dual Layout Modes** - Switch between horizontal and vertical layouts to fit your theme
 
 ### Visual Customization 
-- **Dynamic Wallpaper Background **- Display album art from the currently playing track as a blurred background 
+- **Dynamic Wallpaper Background** - Display album art from the currently playing track as a blurred background 
 - **Extensive Blur Controls** - Adjust blur intensity (1-90) and overlay darkness (0-255) 
 - **Custom Color Scheme** - Personalize background, font, hover, and selection border colors to match your theme
 
