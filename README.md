@@ -31,7 +31,7 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
  - **Essential Functions** - Add, Save, Load, Delete, Duplicate, Rename and Reorder playlists
 
 
-## Install
+## Installation
 
 Install Spider Monkey Panel
  (v1.6.1 or later).
