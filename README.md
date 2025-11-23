@@ -8,9 +8,13 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
 <img width="1802" height="1160" alt="image" src="https://github.com/user-attachments/assets/91a6ec7c-d550-4091-a352-fee92acc7bd4" />
 
 ## Index
-[Usage](#Usage)
+- [Installation](#Installation)
+  
+- [Usage](#Usage)
 
-[Customization](#Customization)
+- [Customization](#Customization)
+
+- [Layout/Viewing Modes](#Layout/Viewing-modes)
 
 
 ## Features
