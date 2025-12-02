@@ -19,7 +19,7 @@ A lightweight Spider Monkey Panel script that adds custom cover art, essential p
 
 ## Features
 ### Playback & Navigation
-- **Quick Playback** - Double-click any playlist to instantly play a random track
+- **Quick Playback** - Double-click any playlist to instantly play a random track within that playlist
 - **Scrollable View** - Smooth scrolling through your entire playlist collection
 - **Dual Layout Modes** - Switch between horizontal and vertical layouts to fit your theme
 
